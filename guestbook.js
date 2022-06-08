@@ -26,7 +26,7 @@ const guestbook = {
       dataType: 'json',
     });
   }
-};1
+};
 
 (function() {
 
